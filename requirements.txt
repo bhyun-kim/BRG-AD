@@ -2,3 +2,6 @@ numpy
 matplotlib
 scikit-learn
 scipy
+tqdm
+pandas
+click==7.1.2
